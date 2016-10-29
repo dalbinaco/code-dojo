@@ -5,7 +5,7 @@
 
 ## Partes essenciais do Code Dojo
 
-O Code Dojo – apesar da diversão – não é um apenas encontro onde programadores trocam ideias e falam sobre programação. Um encontro no Dojo tem algumas caraterísticas:
+O Code Dojo – apesar da diversão – não é apenas um encontro onde programadores trocam ideias e falam sobre programação. Um encontro no Dojo tem algumas caraterísticas:
 
 - Apresentação e revisão
 - Programação e definição testes
