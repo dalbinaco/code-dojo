@@ -3,8 +3,8 @@
 ## O nosso comprometimento
 
 Com o interesse de fomentar uma comunidade aberta e acolhedora, nós, 
-como colaboradores e administradores deste projecto, comprometemo-nos
-a fazer da participação neste projecto e na nossa comunidade uma experiência
+como colaboradores e administradores deste projeto, comprometemo-nos
+a fazer da participação na nossa comunidade uma experiência
 livre de assédio para todos, independentemente da aparência pessoal, 
 deficiência, diferença corporal, etnia, gênero, idade, 
 identidade ou expressãoo de gênero, identidade ou orientação sexual, 
@@ -58,7 +58,7 @@ e esclarecida pelos administradores do projeto.
 ## Cumprimento
 
 Comportamento abusivo, de assédio ou de outros tipos pode ser
-comunicados contactando a equipe do projeto contato.codedojo@gmail.com.
+comunicados contactando a equipe do projeto através do email contato.codedojo@gmail.com.
 Todas as queixas serão revistas e investigadas e
 resultarão numa resposta necessária e apropriada à situação.
 A equipa do projeto é obrigada a manter a confidencialidade em relação
