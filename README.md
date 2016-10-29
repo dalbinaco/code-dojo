@@ -1,3 +1,4 @@
+![logo](https://github.com/viridiano/code-dojo/blob/master/images/code-dojo_logo.png)
 ## O que é o Code Dojo?
 
 É um encontro onde programadores e pessoas interessadas em programação, web e novas tecnologias se reúne para trocar experiências, programar e se divertir em um ambiente de experimentação livre de críticas. Um espaço para conhecer programadores mais experientes, compartilhar códigos, descobrir novas ferramentas e, quem sabe, conhecer pessoas com as quais você desenvolverá projetos no futuro.
