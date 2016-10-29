@@ -5,5 +5,7 @@ Dojo (道場, pronuncia-se dojô) é o local onde se treinam artes marciais japo
 
 É um encontro onde desenvolvedores e pessoas interessadas em programação, web e novas tecnologias se reúnem para trocar experiências, programar e se divertir em um ambiente de experimentação livre de críticas. Um espaço para conhecer dprogramadores mais experientes, compartilhar códigos, descobrir novas ferramentas e, quem sabe, conhecer pessoas com as quais você desenvolverá projetos no futuro.
 
+[Conheça o Código de Conduta do Code Dojo](https://github.com/viridiano/code-dojo/blob/master/codigo_de_conduta.md)
+
 [Faça parte da comunidade Code Dojo no Slack](https://viridiano.typeform.com/to/dJKZwz)
 
