@@ -4,7 +4,7 @@
 
 - [React.js Fundamentals](http://courses.reactjsprogram.com/p/reactjsfundamentals) *– If you're new to React.js, there's no better place to learn React.js and the React ecosystem*
 
-#### Toolkit
+#### Getting Started
 
 - [React Native](https://facebook.github.io/react-native/docs/getting-started.html) *– This page will help you install React Native on your system*
 - [Deco IDE](https://www.decosoftware.com/may-2016-update) *– All-in-one solution for writing React Native apps that you can download and use without any environment setup*
