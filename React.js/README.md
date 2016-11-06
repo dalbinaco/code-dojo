@@ -1,7 +1,6 @@
-- [Awesome React](https://github.com/enaqx/awesome-react) *– A collection of awesome things regarding React ecosystem*
-
 #### Basics
 
+- [Awesome React](https://github.com/enaqx/awesome-react) *– A collection of awesome things regarding React ecosystem*
 - [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/) *– Livro de introdução a JavaScript em PT-BR*
 - [Learning React.js](http://scotch.io/tutorials/learning-react-getting-started-and-concepts) *– Getting Started and Concepts*
 - [React.js Fundamentals](http://courses.reactjsprogram.com/p/reactjsfundamentals) *– If you're new to React.js, there's no better place to learn React.js and the React ecosystem*
