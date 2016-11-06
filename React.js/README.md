@@ -2,6 +2,7 @@
 
 #### Basics
 
+- [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/) *– Introdução a JavaScript em PT-BR*
 - [React.js Fundamentals](http://courses.reactjsprogram.com/p/reactjsfundamentals) *– If you're new to React.js, there's no better place to learn React.js and the React ecosystem*
 
 #### Getting Started
