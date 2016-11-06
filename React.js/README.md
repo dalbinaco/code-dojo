@@ -3,6 +3,7 @@
 #### Basics
 
 - [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/) *– Livro de introdução a JavaScript em PT-BR*
+- [Learning React.js](http://scotch.io/tutorials/learning-react-getting-started-and-concepts) *– Getting Started and Concepts*
 - [React.js Fundamentals](http://courses.reactjsprogram.com/p/reactjsfundamentals) *– If you're new to React.js, there's no better place to learn React.js and the React ecosystem*
 
 #### Getting Started
@@ -18,3 +19,4 @@
 #### Recommended Articles
 
 - [A Study Plan To Cure JavaScript Fatigue](https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.ge74sqo3d) *– Step-by-step study plan to conquering the JavaScript ecosystem*
+- [My journey to becoming a web developer from scratch without a CS degree, 2 years later](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.3jj81n112)
