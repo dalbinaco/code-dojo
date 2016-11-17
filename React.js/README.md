@@ -19,3 +19,7 @@
 
 - [A Study Plan To Cure JavaScript Fatigue](https://medium.com/@sachagreif/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1#.ge74sqo3d) *– Step-by-step study plan to conquering the JavaScript ecosystem*
 - [My journey to becoming a web developer from scratch without a CS degree, 2 years later](https://medium.com/@sgarcia.dev/my-journey-to-becoming-a-web-developer-from-scratch-without-a-cs-degree-2-years-later-and-what-i-4a7fd2ff5503#.3jj81n112)
+
+#### Repositories
+
+- [Mark Erikson | React/Redux](https://github.com/markerikson/react-redux-links) *– Curated tutorial and resource links*
