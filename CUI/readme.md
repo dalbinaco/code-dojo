@@ -7,6 +7,8 @@
 ### Chatbot engine
 
 ###### [Api.ai](https://api.ai) *– Natural language interactions for bots, applications, services, and devices*
+###### [Wit.ai](https://wit.ai)
+###### [Microsoft BotBuilder](https://github.com/Microsoft/BotBuilder)
 
 ### Grupos
 
