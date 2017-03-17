@@ -28,9 +28,9 @@
 
 #### React Boilerplates
 
-- [https://github.com/react-boilerplate/react-boilerplate](react-boilerplate) *– A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices*
-- [https://github.com/erikras/react-redux-universal-hot-example](React Redux Universal Hot Example) *– A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform*
-- [https://github.com/FlintMade/react-keystone-boilerplate](React Keystone Boilerplate) *– Example of a universal, hot-reloading web app using React, Redux, and Keystone CMS*
+- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) *– A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices*
+- [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) *– A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform*
+- [React Keystone Boilerplate](https://github.com/FlintMade/react-keystone-boilerplate) *– Example of a universal, hot-reloading web app using React, Redux, and Keystone CMS*
 
 #### Static Website Generators
 
