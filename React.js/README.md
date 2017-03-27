@@ -3,7 +3,9 @@
 - [Awesome React](https://github.com/enaqx/awesome-react) *– A collection of awesome things regarding React ecosystem*
 - [Eloquent JavaScript](http://braziljs.github.io/eloquente-javascript/) *– Livro de introdução a JavaScript em PT-BR*
 - [Learning React.js](http://scotch.io/tutorials/learning-react-getting-started-and-concepts) *– Getting Started and Concepts*
-- [React.js Fundamentals](http://courses.reactjsprogram.com/p/reactjsfundamentals) *– If you're new to React.js, there's no better place to learn React.js and the React ecosystem*
+- [React.js Fundamentals](https://reacttraining.com/online/react-fundamentals) *– If you're new to React.js, there's no better place to learn React.js and the React ecosystem*
+- [React Router Tutorial](https://github.com/reactjs/react-router-tutorial ) *– Quick lessons for getting up-to-speed with React Router.*
+- [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/) *– Understand what React is and how it fits in the application architecture*
 
 #### Getting Started
 
@@ -23,3 +25,14 @@
 #### Repositories
 
 - [Mark Erikson | React/Redux](https://github.com/markerikson/react-redux-links) *– Curated tutorial and resource links*
+
+#### React Boilerplates
+
+- [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) *– A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices*
+- [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) *– A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform*
+- [React Keystone Boilerplate](https://github.com/FlintMade/react-keystone-boilerplate) *– Example of a universal, hot-reloading web app using React, Redux, and Keystone CMS*
+
+#### Static Website Generators
+
+- [Phenomic](https://github.com/MoOx/phenomic) *– Phenomic is a modern website generator based on the React and Webpack ecosystem*
+- [gatsby](https://github.com/gatsbyjs/gatsby) *– Transform plain text into dynamic blogs and websites using React.js*
